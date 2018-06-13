@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+	<coche matricula="5495HTR">
+		<marca>Mercedes</marca>
+		<modelo>Clase A</modelo>
+		<cor>Branco</cor>
+	</coche>
+	<coche matricula="4055BDF">
+		<marca>Seat</marca>
+		<modelo>Ibiza</modelo>
+		<cor>Negro</cor>
+	</coche>
+	<coche matricula="5108DBZ">
+		<marca>Audi</marca>
+		<modelo>A4</modelo>
+		<cor>Azul</cor>
+	</coche>
+</concesionario>
