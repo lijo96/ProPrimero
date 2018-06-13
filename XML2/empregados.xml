@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<centro>
+	<empregado salario="22000">
+		<nome>Eduardo</nome>
+		<dni>44444444D</dni>
+		<idade>29</idade>
+		<departamento>Administración</departamento>
+	</empregado>
+	<empregado salario="28000">
+		<nome>Marta</nome>
+		<dni>66666666F</dni>
+		<idade>35</idade>
+		<departamento>Análise_Deseño</departamento>
+	</empregado>
+	<empregado salario="32000">
+		<nome>Xan</nome>
+		<dni>33333333C</dni>
+		<idade>50</idade>
+		<departamento>Análise_Deseño</departamento>
+	</empregado>
+	<empregado salario="26500">
+		<nome>Ana</nome>
+		<dni>222222222B</dni>
+		<idade>32</idade>
+		<departamento>Programación</departamento>
+	</empregado>
+	<empregado salario="18700">
+		<nome>Francisco</nome>
+		<dni>55555555E</dni>
+		<idade>33</idade>
+		<departamento>Recepción</departamento>
+	</empregado>
+	<empregado salario="21000">
+		<nome>Pedro</nome>
+		<dni>11111111A</dni>
+		<idade>25</idade>
+		<departamento>RR.HH</departamento>
+	</empregado>
+	<empregado salario="30000">
+		<nome>Sofía</nome>
+		<dni>77777777G</dni>
+		<idade>47</idade>
+		<departamento>RR.HH</departamento>
+	</empregado>
+</centro>

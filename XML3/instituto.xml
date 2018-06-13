@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instituto>
+	<alumno>
+		<nome>Ana</nome>
+		<idade>12</idade>
+		<curso>1</curso>
+		<notamedia>8.6</notamedia>
+	</alumno>
+	<alumno>
+		<nome>Paula</nome>
+		<idade>13</idade>
+		<curso>2</curso>
+		<notamedia>6.7</notamedia>
+	</alumno>
+	<alumno>
+		<nome>Diego</nome>
+		<idade>12</idade>
+		<curso>1</curso>
+		<notamedia>7.8</notamedia>
+	</alumno>
+</instituto>
